@@ -27,11 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "",
+        "Hi",
         "Hola!",
         "Boku no chin chin wa chisai"
       ]
